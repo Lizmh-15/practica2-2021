@@ -1,0 +1,31 @@
+*
+{
+  font-size:40px;
+  font-family:Agency FB;
+  margin:3px;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}
+h1
+{
+  font-size:16px;
+  font-family:Agency FB;
+  color:#33CCFF;
+}
+h2
+{
+  font-size:16px;
+  font-family:Agency FB;
+  color:#33FF00;
+}
+h3
+{
+  font-size:16px;
+  font-family:Agency FB;
+  color:#990000;
+}

@@ -1,0 +1,14 @@
+*
+{
+  font-size:30px;
+  font-family:Berlin Sans FB Demi;
+  color:#FFFF00;
+  margin:3px;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}

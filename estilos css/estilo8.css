@@ -1,0 +1,25 @@
+*
+{
+  font-size:40px;
+  font-family:Britannic Bold;
+  margin:3px;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}
+h1
+{
+  font-size:16px;
+  font-family:Bodoni MT Black;
+  color:#FF6699;
+}
+h2
+{
+  font-size:16px;
+  font-family:Bodoni MT Black;
+  color:#3366FF;
+}

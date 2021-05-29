@@ -1,0 +1,18 @@
+*
+{
+  font-family: BankGothic Md BT;
+  margin:3px;
+}
+@media (orientation:portrait)
+{
+   body
+   {
+          background:lightblue;
+   }
+}
+h1
+{
+  font-size:20px;
+  text-align:center;
+  color:#0033FF;
+}
